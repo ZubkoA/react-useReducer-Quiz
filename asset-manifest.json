@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-useReducer-Quiz/static/css/main.beb13c0a.css",
+    "main.js": "/react-useReducer-Quiz/static/js/main.cea95a7e.js",
+    "index.html": "/react-useReducer-Quiz/index.html",
+    "main.beb13c0a.css.map": "/react-useReducer-Quiz/static/css/main.beb13c0a.css.map",
+    "main.cea95a7e.js.map": "/react-useReducer-Quiz/static/js/main.cea95a7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb13c0a.css",
+    "static/js/main.cea95a7e.js"
+  ]
+}
